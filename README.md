@@ -1,2 +1,0 @@
-# Tension_rocker_LGX_Lite_Stealthburner
-replaces the Tension_rocker_LGX_Lite_Stealthburner with a more discreet one
